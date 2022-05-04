@@ -15,6 +15,6 @@
   <br/>
   Apaixonado por tecnologia, estudando no momento, Front-end e buscando adentrar nesse mundo fantástico da progamação!</br>
   </br>
-  Email:  alisson.praprecd@gmail.com </br>
+  📧  Email: alisson.praprecd@gmail.com </br>
    </br>
-  Contato:  (88) 9 9918-6445
+  📞  Contato: (88) 9 9918-6445
