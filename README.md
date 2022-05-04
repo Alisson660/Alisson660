@@ -1,9 +1,9 @@
 
 ### Olá! Eu sou o Alisson Souza 🙋‍♂️
+</br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://www.instagram.com/alisson.rocha01/)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)
 
 ![Alisson GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisson660&show_icons=true&theme=radical/)
 
